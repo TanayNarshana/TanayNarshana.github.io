@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-01-30 00:00:00
+date: 2022-08-02 00:00:00
 inline: true
 ---
 
-Two papers accepted at ICLR 2023! :blush:
+Joining Observe.AI as a Machine Learning Engineer! :relaxed:
